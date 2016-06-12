@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">DeviceControlApp</string>
+
+    <string name="app_name">Remote control</string>
+    <string name="title">(Remote control home network devices App)</string>
+    <string name="author_name">By Lyakhovetsky Bohdan</string>
+    <string name="author_url"></string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send Command</string>
+
 </resources>
